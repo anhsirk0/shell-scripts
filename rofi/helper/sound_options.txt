@@ -1,0 +1,16 @@
+Mute sound
+Inc sound 10%
+Dec sound 10%
+Sound 0%
+Sound 10%
+Sound 20%
+Sound 30%
+Sound 40%
+Sound 50%
+Sound 60%
+Sound 70%
+Sound 80%
+Sound 90%
+Sound 100%
+Inc sound 5%
+Dec sound 5%

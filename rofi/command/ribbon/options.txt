@@ -1,0 +1,31 @@
+Mute sound
+Light 1%
+Light 10%
+Light 20%
+Light 30%
+Light 40%
+Light 50%
+Light 60%
+Light 70%
+Light 80%
+Light 90%
+Light 100%
+Sound 0%
+Sound 10%
+Sound 20%
+Sound 30%
+Sound 40%
+Sound 50%
+Sound 60%
+Sound 70%
+Sound 80%
+Sound 90%
+Sound 100%
+Inc light 5%
+Inc light 10%
+Dec light 5%
+Dec light 10%
+Inc sound 5%
+Inc sound 10%
+Dec sound 5%
+Dec sound 10%

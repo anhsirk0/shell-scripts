@@ -1,0 +1,17 @@
+Light 1%
+Inc light 10%
+Dec light 10%
+Light 10%
+Light 20%
+Light 30%
+Light 40%
+Light 50%
+Light 60%
+Light 70%
+Light 80%
+Light 90%
+Light 100%
+Inc light 5%
+Dec light 5%
+Blugon
+Pres (false)
