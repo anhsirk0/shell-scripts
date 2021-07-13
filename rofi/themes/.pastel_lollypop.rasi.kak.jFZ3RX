@@ -21,8 +21,6 @@ configuration {
     display-windowcd: 				"";
 }
 
-/* colors */
-
 * {
   al:      #92837400;
   bg:      #3b3b46ff;
@@ -63,7 +61,7 @@ textbox-prompt-colon {
 }
 
 entry {
-    placeholder: "	        Facts - Karan Aujla";
+    placeholder: "	        Adhiya - Karan Aujla";
     spacing:    					0;
     text-color: 					@fg;
 }

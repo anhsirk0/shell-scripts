@@ -76,7 +76,7 @@ textbox-prompt-colon {
 }
 
 entry {
-    placeholder: "		  Hisaab  -  Karan Aujla ";
+    placeholder: "	        Pariya - Gurnam Bhullar";
     spacing:    					0;
     text-color: 					@fg;
 }

@@ -20,8 +20,12 @@ if [ ! -z "$chosen" ] ; then
         query=$(echo $chosen | cut -f2- -d ' ')
         url="https://www.google.com/search?q="
         brave "$url$query"
+    elif [ "$first" == "d" ] ; then
+        query=$(echo $chosen | cut -f2- -d ' ')
+        url="https://duckduckgo.com/?q="
+        brave "$url$query"
     else
-        url="https://duckduckgo.com/?q=$chosen"
+        url="https://search.brave.com/search?q=$chosen"
         brave "$url"
     fi
 fi

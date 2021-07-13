@@ -1,7 +1,8 @@
-Youtube|youtube.com
+Youtube|https://www.youtube.com/feed/subscriptions
 Lichess|lichess.org
 Github|https://github.com/anhsirk0
 Reddit|https://www.reddit.com/
 Django|http://127.0.0.1:8000/
 fm6000|https://github.com/anhsirk0/fetch-master-6000
-Kakoune docs|https://github.com/mawww/kakoune/wiki/Normal-mode-commands
+Yandex|mail.yandex.com
+next|http://localhost:3000/

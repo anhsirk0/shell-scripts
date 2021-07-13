@@ -1,9 +1,9 @@
 Kill XDM:killall java
-Connect VPN:windscribe connect GB && notify-send "VPN Connected"
-Disconnect VPN:windscribe disconnect
+Kill slack:killall slack
+Pause deadbeef:deadbeef --toggle-pause
 Kill audacious:killall audacious
 vnstat:vnstat | grep today | cut -d "|" -f3
-Kill blueman-applet:killall blueman-applet
 Kill vlc:killall vlc
-Origkey:xmodmap -e "keycode 51 = backslash bar"
-Mykey:xmodmap ~/.Xmodmap
+Kill telegram:killall telegram-desktop
+Swap Alt Ctrl:xmodmap ~/.swap_ctrl_alt
+Original Keys:xmodmap ~/.reset_alt_ctrl

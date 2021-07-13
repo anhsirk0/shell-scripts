@@ -1,5 +1,5 @@
 configuration {
-    lines:							3;
+    lines:							4;
     columns:						2;
     font: 							"Iosevka Nerd Font 12";
     bw: 							0;
